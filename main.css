@@ -29,10 +29,10 @@
   box-sizing: border-box;
 }
 
-.show {
-    display: block;
-}
-
 .condensed{
   display: none;
+}
+
+.show {
+    display: block;
 }
